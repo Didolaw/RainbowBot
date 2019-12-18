@@ -1,6 +1,6 @@
 ##REPLACE THESE VALUES
-bot_key="PlAcEhOlDeR"
-default_role="RAINBOW"
+bot_key="d!!"
+default_role="D"
 ##--------------------
 import discord
 import asyncio
